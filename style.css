@@ -343,11 +343,6 @@ body {
   font-size: 14px;
 }
 
-/* Smooth global */
-* {
-  transition: all 0.25s ease;
-}
-
 /* Buttons */
 .btn:hover {
   transform: translateY(-2px);
@@ -451,4 +446,3 @@ body {
     gap: 20px;
     text-align: center;
   }
-}
