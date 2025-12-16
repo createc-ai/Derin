@@ -8,9 +8,6 @@ ctx.fillStyle = "#000";
 ctx.font = "24px Inter";
 // ctx.fillText("Createc AI Canvas", 30, 50);
 
-const canvas = document.getElementById("designCanvas");
-const ctx = canvas.getContext("2d");
-
 let isDrawing = false;
 
 canvas.addEventListener("mousedown", () => {
