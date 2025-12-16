@@ -340,3 +340,24 @@ body {
   margin-bottom: 12px;
   color: #444;
 }
+
+.footer {
+  padding: 60px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  border-top: 1px solid #eee;
+}
+
+.footer p {
+  color: #666;
+  font-size: 14px;
+}
+
+.footer-links a {
+  margin-left: 20px;
+  color: #000;
+  text-decoration: none;
+  font-size: 14px;
+}
