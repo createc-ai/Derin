@@ -4,7 +4,6 @@
 }
 
 a, button, .price-card, .blog-card {
-  transition: all 0.25s ease;
 }
 
 * {
