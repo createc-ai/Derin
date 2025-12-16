@@ -20,7 +20,7 @@ body {
 }
 
 .logo {
-  height: 34px;
+  height: 18px;
 }
 
 .nav-center a {
@@ -89,8 +89,8 @@ body {
   border-radius: 24px;
 }
 .favicon {
-  width: 20px;
-  height: 20px;
+  width: 36px;
+  height: 36px;
   margin-right: 10px;
 }
 .nav-center a {
