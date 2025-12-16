@@ -93,3 +93,9 @@ body {
   height: 20px;
   margin-right: 10px;
 }
+.nav-center a {
+  color: #000;
+}
+.nav-center a:hover {
+  color: #555;
+}
