@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="25.4mm" height="4.2618mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 114.66 19.24"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID1" horiz-adv-x="626" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Kabel Dm BT">
+		<font-face-src>
+			<font-face-name name="Kabel Demi BT"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="A" horiz-adv-x="626" d="M234.001 279.995l153.993 0 -76.9964 183.005 -76.9964 -183.005zm-278.004 -270.823l356.004 701.169 358.829 -702.173 -145.995 -23.0053 -83.0029 177.832 -261.669 0 -80.9951 -177.832 -143.171 24.0093z"/>
+   <glyph unicode="I" horiz-adv-x="255" d="M58.9937 -9.00134l0 698.668 137.998 9.34166 0 -699.178 -137.998 -8.83119z"/>
+  </font>
+  <font id="FontID0" horiz-adv-x="790" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="Gotham">
+		<font-face-src>
+			<font-face-name name="Gotham-Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="C" horiz-adv-x="738" d="M411.993 -12.0066c135.999,0 215.001,48.0088 287.006,125.004l-97.9896 99.0018c-55.0068,-50.993 -104.01,-82.0041 -184.008,-82.0041 -119.996,0 -202.995,99.9965 -202.995,220.01l0 1.98946c0,120.013 84.9883,218.003 202.995,218.003 70.9923,0 123.992,-29.999 178.999,-79.0025l98.0071 112.998c-64.0117,64.0117 -145.004,108.007 -276.011,108.007 -215.001,0 -364.996,-162.996 -364.996,-361.994l0 -2.00691c0,-201.005 152.996,-360.005 358.993,-360.005z"/>
+   <glyph unicode="a" horiz-adv-x="592" d="M219.992 -9.99965c75.0061,0 125.004,26.9973 162.001,68.0081l0 -58.0084 147.011 0 0 311.001c0,72.0045 -18.0098,130.99 -58.0084,171.006 -39.0039,38.9864 -96.9949,59.9979 -180.988,59.9979 -91.009,0 -149,-18.0098 -208.003,-43.0002l37.9917 -115.999c49.0035,18.9871 89.0021,28.9868 148.005,28.9868 76.0008,0 115.005,-33.9953 115.005,-97.9896l0 -9.00492c-39.0039,13.0013 -76.0008,22.0062 -131.008,22.0062 -126.994,0 -215.996,-55.0068 -215.996,-171.006l0 -1.98946c0,-107.012 82.9988,-164.008 183.99,-164.008zm46.0019 105.005c-48.9861,0 -82.9988,23.9957 -82.9988,64.989l0 2.00691c0,47.9913 39.9986,73.9939 105.005,73.9939 36.997,0 69.9976,-7.99274 96.9949,-19.9993l0 -26.9973c0,-56.0015 -46.9966,-93.9932 -119.001,-93.9932z"/>
+   <glyph unicode="c" horiz-adv-x="570" d="M321.001 -12.0066c106.995,0 166.992,41.0108 218.998,98.0071l-89.0021 89.9969c-36.997,-34.9901 -72.0045,-56.9963 -122.997,-56.9963 -82.9988,0 -135.999,65.0065 -135.999,148.005l0 1.98946c0,79.9972 53.9946,145.998 129.995,145.998 55.0068,0 87.0127,-23.0009 122.003,-58.9857l92.9985 99.9965c-50.993,56.0015 -112.998,89.9969 -213.989,89.9969 -164.008,0 -281.002,-125.999 -281.002,-278.995l0 -2.00691c0,-152.002 117.989,-277.006 278.995,-277.006z"/>
+   <glyph unicode="e" horiz-adv-x="612" d="M321.996 -12.0066c97.0123,0 168.005,37.0144 218.998,100.014l-86.9952 76.9956c-43.0002,-39.0039 -79.0025,-55.0068 -129.995,-55.0068 -68.0081,0 -115.999,36.0022 -131.008,105.005l373.006 0c0.99473,14.9908 2.00691,27.992 2.00691,39.9986 0,152.002 -82.0041,291.002 -261.003,291.002 -155.998,0 -264.999,-125.999 -264.999,-278.995l0 -2.00691c0,-163.991 119.001,-277.006 279.99,-277.006zm-130.99 322.013c11.9891,68.9854 51.9877,113.993 115.999,113.993 63.9943,0 103.993,-46.0019 112.998,-113.993l-228.997 0z"/>
+   <glyph unicode="r" horiz-adv-x="417" d="M68.0081 0l151.984 0 0 198.004c0,129.001 62.0048,188.999 163.014,188.999l7.99274 0 0 159c-90.9916,3.99637 -139.995,-45.0072 -171.006,-118.006l0 108.007 -151.984 0 0 -536.002z"/>
+   <glyph unicode="t" horiz-adv-x="414" d="M248.997 -9.00492c51.0104,0 88.0074,12.0066 119.996,31.0111l0 121.985c-23.0009,-12.9838 -47.9913,-18.9871 -74.9887,-18.9871 -33.0006,0 -49.0035,16.9977 -49.0035,51.9877l0 229.015 125.999 0 0 129.995 -125.999 0 0 136.993 -152.002 0 0 -136.993 -63.9943 0 0 -129.995 63.9943 0 0 -254.005c0,-124.01 63.9943,-161.007 155.998,-161.007z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Kabel Dm BT";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID1") format(svg)}
+    @font-face { font-family:"Gotham";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil0 {fill:black}
+    .fil1 {fill:#00A8F3}
+    .fnt0 {font-weight:bold;font-size:25.87px;font-family:'Gotham'}
+    .fnt1 {font-weight:normal;font-size:26.53px;font-family:'Kabel Dm BT'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Katman_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_804749648">
+   <g transform="matrix(0.999998 0 0 1 -1271.37 -716.896)">
+    <text x="1270" y="735.74"  class="fil0 fnt0">Create</text>
+    <text x="1360.1" y="735.74"  class="fil0 fnt0"> </text>
+   </g>
+   <g transform="matrix(0.999998 0 0 1 -1271.37 -716.896)">
+    <text x="1345.33" y="735.74"  class="fil1 fnt0">c</text>
+   </g>
+   <g transform="matrix(0.999998 0 0 1 -1175.4 -716.896)">
+    <text x="1270" y="735.74"  class="fil0 fnt1">AI</text>
+   </g>
+  </g>
+ </g>
+</svg>
