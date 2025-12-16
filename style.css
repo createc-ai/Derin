@@ -361,3 +361,55 @@ body {
   text-decoration: none;
   font-size: 14px;
 }
+
+/* Smooth global */
+* {
+  transition: all 0.25s ease;
+}
+
+/* Buttons */
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+/* Navbar links */
+.nav-center a {
+  position: relative;
+}
+.nav-center a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 0;
+  height: 2px;
+  background: #000;
+}
+.nav-center a:hover::after {
+  width: 100%;
+}
+
+/* Cards hover */
+.price-card:hover,
+.blog-card:hover,
+.editor-tools,
+.editor-settings {
+  transform: translateY(-6px);
+  box-shadow: 0 30px 60px rgba(0,0,0,0.12);
+}
+
+/* Editor buttons */
+.editor-tools button:hover {
+  background: #333;
+}
+
+/* Blog image hover */
+.blog-thumb:hover {
+  background: #ccc;
+}
+
+/* Hero visual subtle scale */
+.hero-visual:hover {
+  transform: scale(1.02);
+}
