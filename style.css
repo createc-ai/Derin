@@ -99,3 +99,64 @@ body {
 .nav-center a:hover {
   color: #555;
 }
+.hero {
+  min-height: calc(100vh - 80px);
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  align-items: center;
+  padding: 0 100px;
+  gap: 60px;
+}
+
+.hero-badge {
+  display: inline-block;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  background: #000;
+  color: #fff;
+  margin-bottom: 24px;
+}
+
+.hero-content h1 {
+  font-size: 64px;
+  line-height: 1.05;
+  margin-bottom: 28px;
+}
+
+.hero-content p {
+  font-size: 18px;
+  max-width: 520px;
+  color: #444;
+  margin-bottom: 40px;
+}
+
+.hero-visual {
+  position: relative;
+  height: 420px;
+}
+
+.mockup-card {
+  position: absolute;
+  width: 320px;
+  height: 220px;
+  background: #f4f4f4;
+  border-radius: 20px;
+  box-shadow: 0 30px 60px rgba(0,0,0,0.15);
+  top: 80px;
+  left: 40px;
+}
+
+.mockup-card.floating {
+  top: 0;
+  left: 160px;
+  background: #fff;
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-18px); }
+  100% { transform: translateY(0); }
+}
