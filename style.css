@@ -36,10 +36,6 @@ body {
   height: 18px;
 }
 
-.nav-center a:hover {
-  color: #ffffff;
-}
-
 .btn {
   padding: 10px 20px;
   border-radius: 10px;
