@@ -413,3 +413,61 @@ body {
 .hero-visual:hover {
   transform: scale(1.02);
 }
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .hero {
+    grid-template-columns: 1fr;
+    padding: 0 60px;
+    text-align: center;
+  }
+
+  .hero-visual {
+    margin-top: 60px;
+  }
+
+  .editor-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .pricing-grid,
+  .blog-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .navbar {
+    padding: 0 20px;
+  }
+
+  .nav-center {
+    display: none;
+  }
+
+  .hero-content h1 {
+    font-size: 42px;
+  }
+
+  .hero {
+    padding: 0 20px;
+  }
+
+  .editor,
+  .pricing,
+  .blog {
+    padding: 100px 20px;
+  }
+
+  .pricing-grid,
+  .blog-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .footer {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+}
