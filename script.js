@@ -28,3 +28,30 @@ canvas.addEventListener("mousemove", (e) => {
   ctx.beginPath();
   ctx.moveTo(e.clientX - rect.left, e.clientY - rect.top);
 });
+
+const textTool = document.getElementById("toolText");
+
+let activeTool = "draw";
+
+textTool.addEventListener("click", () => {
+  activeTool = "text";
+});
+
+canvas.addEventListener("click", (e) => {
+  if (activeTool !== "text") return;
+
+  const text = prompt("Yazıyı gir:");
+  if (!text) return;
+
+  const rect = canvas.getBoundingClientRect();
+  const x = e.clientX - rect.left;
+  const y = e.clientY - rect.top;
+
+  ctx.fillStyle = "#000";
+  ctx.font = "24px Inter";
+  ctx.fillText(text, x, y);
+
+  activeTool = "draw"; // otomatik çizime dön
+});
+
+
