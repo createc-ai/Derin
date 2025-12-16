@@ -183,6 +183,9 @@ body {
   color: #fff;
   font-size: 12px;
   cursor: pointer;
+  .editor-tools button {
+  width: 100%;
+  display: block;
 }
 
 .editor-canvas {
